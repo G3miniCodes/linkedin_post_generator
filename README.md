@@ -1,4 +1,4 @@
-📢 Personal LinkedIn Post Generator  
+# 📢 Personal LinkedIn Post Generator  
 
 ## 🚀 Generate Engaging LinkedIn Posts with AI  
 
@@ -12,7 +12,7 @@ This project leverages LLaMA, a powerful language model, to generate personalize
    - Language: Select between **English** or **Hinglish**.  
 🔹 Streamlit-Based UI – Simple and interactive web interface.  
 
-⚙️ How It Works  
+## ⚙️ How It Works  
 1️⃣ **User provides input** (Topic, Length, Language).  
 2️⃣ **LLaMA processes the data** and generates a relevant LinkedIn post.  
 3️⃣ **The user receives a ready-to-use post** for LinkedIn.  
